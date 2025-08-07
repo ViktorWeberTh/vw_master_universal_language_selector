@@ -1,3 +1,12 @@
+DISCLAIMER.
+This is the code of the universal language selector extension. Only some
+files were modified from the original 1.39 version:
+
+* jquery.ime.js
+* jquery.uls.core.js
+* jquery.uls.lcd.js
+* ext.uls.languagesettings.js
+
 == Universal Language Selector ==
 The Universal Language Selector extension (ULS) provides a flexible way to
 configure and deliver language settings like interface language, fonts, and
