@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"TayfunEt.",
+			"Sorbat",
+			"Zolgoyo"
+		]
+	},
+	"uls-plang-title-languages": "Телләр",
+	"ext-uls-compact-link-count": "{{PLURAL:$1|Тағын|тағын та $1}}"
+}
